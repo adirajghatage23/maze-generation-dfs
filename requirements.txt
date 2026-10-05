@@ -1,0 +1,4 @@
+# Maze Generation Using DFS has NO third-party dependencies.
+# It uses only the Python 3 standard library (tkinter, random, collections,
+# dataclasses, unittest). Tkinter ships with Python on Windows and macOS;
+# on Ubuntu/Debian install it with:  sudo apt install python3-tk
